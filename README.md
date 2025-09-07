@@ -27,3 +27,6 @@ We designed a **mobile application prototype** that complements existing student
 
 ## 🖼️ Prototype Screens  
 ![App Prototype](./Student%20Health%20App.png)  
+
+## Introductory Video
+https://youtu.be/qvGOCIbMgSE?si=s6eTHKHqPT2wy0Pi
